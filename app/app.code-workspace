@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "app",
+			"path": "."
+		},
+		{
+			"name": "models",
+			"path": "../../../../Downloads/sarcasm_classification/content/models"
+		}
+	],
+	"settings": {}
+}
