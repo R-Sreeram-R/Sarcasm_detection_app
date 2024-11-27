@@ -13,7 +13,7 @@ This repository contains a Streamlit application and Jupyter notebook to explore
 ## 🚀 How to Run the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sarcasm-detection.git
+   git clone https://github.com/R-Sreeram-R/Sarcasm_detection_app.git
    cd sarcasm-detection
    ```
 2. Install dependencies:
